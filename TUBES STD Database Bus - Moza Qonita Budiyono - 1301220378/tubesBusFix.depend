@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1704231441 source:c:\users\mimik\documents\praktikum\tp strukdat\tubesbusfix\bus.cpp
+	"bus.h"
+	<iostream>
+
+1704231442 c:\users\mimik\documents\praktikum\tp strukdat\tubesbusfix\bus.h
+	<iostream>
+
+1704524041 source:c:\users\mimik\documents\praktikum\tubesbusfix\bus.cpp
+	"bus.h"
+	<iostream>
+
+1704273247 c:\users\mimik\documents\praktikum\tubesbusfix\bus.h
+	<iostream>
+	<conio.h>
+
+1704239333 source:c:\users\mimik\documents\praktikum\tubesbusfix\main.cpp
+	<iostream>
+	"bus.h"
+
