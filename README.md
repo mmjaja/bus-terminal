@@ -1,2 +1,2 @@
 # bus-terminal
-Tugas besar STD
+Tugas besar Struktur Data
